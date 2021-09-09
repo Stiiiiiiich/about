@@ -1,0 +1,100 @@
+Uri: https://darknesz.tilda.ws/
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\index.htm
+Content Type: text/html
+
+Uri: http://darknesz.tilda.ws/
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\index-1.htm
+Content Type: text/html
+
+Uri: https://static.tildacdn.info/tild6132-3839-4333-b961-366163363262/-/resize/20x/giphy.gif
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\tild6132-3839-4333-b961-366163363262\-\resize\20x\giphy.gif
+Content Type: image/gif
+
+Uri: https://static.tildacdn.info/
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\index-2.htm
+Content Type: text/html
+
+Uri: https://static.tildacdn.info/tild3131-3665-4464-b238-376464613762/favicon_2.ico
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\tild3131-3665-4464-b238-376464613762\favicon_2.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.info/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://darknesz.tilda.ws/tilda-blocks-2.14.css?t=1631197389
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\tilda-blocks-2.14.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&subset=latin,cyrillic
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\css2.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-animation-1.0.min.css
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\css\tilda-animation-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-menusub-1.0.min.css
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\css\tilda-menusub-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-cover-1.0.min.css
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://tilda.cc/?upm=4529536
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\index-3.htm
+Content Type: text/html
+
+Uri: https://static.tildacdn.info/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://darknesz.tilda.ws/tilda-blocks-2.7.js?t=1631197389
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\tilda-blocks-2.7.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-animation-1.0.min.js
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\js\tilda-animation-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-menusub-1.0.min.js
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\js\tilda-menusub-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/img/tildacopy_black.png
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\img\tildacopy_black.png
+Content Type: image/png
+
+Uri: http://darknesz.tilda.ws/tilda-blocks-2.14.css?t=1631197389
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\tilda-blocks-2.14-1.css
+Content Type: text/css
+
+Uri: http://darknesz.tilda.ws/tilda-blocks-2.7.js?t=1631197389
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\tilda-blocks-2.7-1.js
+Content Type: application/javascript
+
+Uri: https://discord.com/invite/dW2YrSrSUA
+File Name: C:\Downloaded Web Sites\darknesz.tilda.ws\invite\dW2YrSrSUA.html
+Content Type: text/html
+
